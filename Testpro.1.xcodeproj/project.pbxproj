@@ -14,7 +14,7 @@
 		E67E1C4E2661351200690CA4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E67E1C4D2661351200690CA4 /* Assets.xcassets */; };
 		E67E1C512661351200690CA4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E67E1C4F2661351200690CA4 /* LaunchScreen.storyboard */; };
 		E67E1C5E26613F8E00690CA4 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E67E1C5D26613F8E00690CA4 /* FirstViewController.swift */; };
-		E67E1C6626615D8F00690CA4 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E67E1C6526615D8F00690CA4 /* SecondViewController.swift */; };
+		E67E1C6226615C9B00690CA4 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E67E1C6126615C9B00690CA4 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		E67E1C502661351200690CA4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E67E1C522661351200690CA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E67E1C5D26613F8E00690CA4 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
-		E67E1C6526615D8F00690CA4 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		E67E1C6126615C9B00690CA4 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +63,7 @@
 				E67E1C442661350E00690CA4 /* AppDelegate.swift */,
 				E67E1C462661350E00690CA4 /* SceneDelegate.swift */,
 				E67E1C482661350E00690CA4 /* ViewController.swift */,
+				E67E1C6126615C9B00690CA4 /* SecondViewController.swift */,
 				E67E1C5D26613F8E00690CA4 /* FirstViewController.swift */,
 				E67E1C6526615D8F00690CA4 /* SecondViewController.swift */,
 				E67E1C4A2661350E00690CA4 /* Main.storyboard */,
@@ -146,7 +147,7 @@
 				E67E1C492661350E00690CA4 /* ViewController.swift in Sources */,
 				E67E1C452661350E00690CA4 /* AppDelegate.swift in Sources */,
 				E67E1C472661350E00690CA4 /* SceneDelegate.swift in Sources */,
-				E67E1C6626615D8F00690CA4 /* SecondViewController.swift in Sources */,
+				E67E1C6226615C9B00690CA4 /* SecondViewController.swift in Sources */,
 				E67E1C5E26613F8E00690CA4 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
